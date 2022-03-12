@@ -1,0 +1,10 @@
+{
+    "token": "OTUxOTA3NzMwNjQwMjI4MzYy.YiuTKA.4eeXVcxHk-JZTlg9h5i29PqdfOM",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://www.vinted.fr/vetements?search_text=&catalog[]=1811&catalog[]=267&brand_id[]=362&brand_id[]=872289&price_to=20&currency=EUR&status[]=6&status[]=1&status[]=2&order=newest_first": {
+            "channel": 951925390866280451
+        }
+    }
+}
